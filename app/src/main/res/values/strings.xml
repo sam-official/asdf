@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Collaborators</string>
+    <string name="title">PROGRESS</string>
+    <string name="heading_topic">How We Started This Blog</string>
+    <string name="para">Want to create something meaningful? Why not start a blog? Why not become a blogger? Creating this blog is one of the best decisions Ryan and I ever made. After all, our blog is how we earn a living. More important, it’s how we add value to other people’s lives.\n\nSo you’re thinking about starting a blog, but you don’t have any idea where to start, right? Guess what—neither did we! Before we became “The Minimalists,” we wanted to start a blog to communicate our thoughts and express our feelings, but we were overwhelmed with options.\n\nClueless, confused, and confounded with choices, we had no idea how to start a blog or how to be a blogger. When should we start? How do we register a domain name? What is hosting? Which blogging platform should we use? How do we choose a blog theme? What is a plugin? What should we write about? Heck, we could hardly spell HTML, let alone build a blog!\n\nBut good news: it turns out that starting a blog is much easier than you think. We’ve learned a ton of lessons during our ascent to millions of readers, and now you can learn from our pain and suffering to avoid much of the tedium involved in setting up a blog.</string>
+    <string name="prev">PREV</string>
+    <string name="home">HOME</string>
+    <string name="next">NEXT</string>
+    <string name="done_by">creator</string>>
+    <string name="knowledge">Stuffs learned through this project:\nLinear layouts (both horizontal and vertical), vertical scroll view,layering of views ,to use multiple activities(pages) and how to jump in between them through intents..that\'s all for today ..peace</string>
+    <string name="back_to_home">back to home</string>>
+
+</resources>
